@@ -1,0 +1,2 @@
+Hello, this is a simple file created using Python!
+We can write multiple lines to this file.
